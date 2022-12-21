@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Albert</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
 
-- 🔭 I’m currently working on [Economics Project](economicsproject.epizy.com)
+- 🔭 I’m currently working on [Economics Project](https://github.com/g10albert/economics)
 
 - 👨‍💻 All of my projects are available at [https://g10albert.github.io/g10albert/index.html](https://g10albert.github.io/g10albert/index.html)
 
